@@ -1,3 +1,7 @@
+
+//NOTE - Used Bootstrap to set up the navbar styling and functionality. The header and the list items
+//all contain anchors and the capability to have links, but right now they do not lead anywhere
+
 export function Navigation() {
     return (
         <>

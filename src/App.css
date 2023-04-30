@@ -6,6 +6,9 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+
+  /*My CSS from here until line 56 */
+
 }
  body {
   background-color: lavender;

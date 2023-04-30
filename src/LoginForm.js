@@ -1,3 +1,5 @@
+//NOTE - Bootstrap to format and used CSS to style and center
+
 export function LoginForm() {
     return (
         <>
